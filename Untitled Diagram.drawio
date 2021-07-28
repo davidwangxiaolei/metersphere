@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T03:12:32.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ytYf6aSMpFGoDdaH8MwC" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T03:15:34.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="vQOc8p9lwkk9lwwNwwRw" version="14.9.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2552" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="870" y="70" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-2" value="ApiCase" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="154" width="160" height="84" as="geometry">
+          <mxGeometry x="580" y="154" width="160" height="88" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -73,10 +73,10 @@
           <mxGeometry y="26" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-19" value="Path" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5Utz_-exCH44QDMudk01-2">
-          <mxGeometry y="50" width="160" height="26" as="geometry" />
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="5Utz_-exCH44QDMudk01-2">
-          <mxGeometry y="76" width="160" height="8" as="geometry" />
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-22" value="Code coverage Service" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="50" width="190" height="50" as="geometry" />
@@ -123,12 +123,12 @@
         <mxCell id="5Utz_-exCH44QDMudk01-37" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5Utz_-exCH44QDMudk01-34">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5Utz_-exCH44QDMudk01-38" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--20">
+        <mxCell id="5Utz_-exCH44QDMudk01-38" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Utz_-exCH44QDMudk01-1" target="zkfFHV4jXpPFQw0GAbJ--20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="320" as="sourcePoint" />
             <mxPoint x="470" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="360" />
+              <mxPoint x="965" y="411" />
               <mxPoint x="690" y="411" />
             </Array>
           </mxGeometry>
@@ -198,6 +198,15 @@
         </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-64" value="MeterSphere 核心表" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="-80" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Utz_-exCH44QDMudk01-68" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.994;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Utz_-exCH44QDMudk01-2" target="zkfFHV4jXpPFQw0GAbJ--18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="975" y="180" as="sourcePoint" />
+            <mxPoint x="555" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
