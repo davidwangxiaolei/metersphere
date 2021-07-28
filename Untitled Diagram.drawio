@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T03:24:48.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="bD6VqzkgT9WtUK463rVl" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T03:25:53.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="YVZlGgab5-oIAeTEqDAN" version="14.9.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2552" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3415" dy="2483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -81,6 +81,14 @@
         <mxCell id="5Utz_-exCH44QDMudk01-22" value="Code coverage Service" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="50" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5Utz_-exCH44QDMudk01-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Utz_-exCH44QDMudk01-25" target="5Utz_-exCH44QDMudk01-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Utz_-exCH44QDMudk01-25" value="code_coverage_rate_mapping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="210" width="310" height="104" as="geometry" />
         </mxCell>
@@ -128,7 +136,7 @@
             <mxPoint x="620" y="320" as="sourcePoint" />
             <mxPoint x="470" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="965" y="317" />
+              <mxPoint x="965" y="301" />
             </Array>
           </mxGeometry>
         </mxCell>
